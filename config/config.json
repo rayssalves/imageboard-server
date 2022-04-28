@@ -1,0 +1,20 @@
+{
+  "development": {
+    "url":"postgres://akrikoqf:pv30faX2OQ2lJdhYWf5PKDjNJgiXpHGn@tai.db.elephantsql.com/akrikoqf",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
